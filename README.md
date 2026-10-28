@@ -19,7 +19,7 @@ Port 8080 on your computer needs to be free.
 
 ## Step 1: Download the project
 
-    git clone <REPO-URL> t02app
+    git clone https://github.com/Ayushkap09/t02app.git t02app
     cd t02app
 
 ## Step 2: Check the files are set up correctly
